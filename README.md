@@ -1,25 +1,26 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;Full+Stack+Developer;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Developer;Spring+Boot+Learner;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahsin Nair</h1>
 
 <h3 align="center">
-Java Developer | Spring Boot Learner | Full Stack Enthusiast
+Java Developer • BCA Student • Spring Boot Learner
 </h3>
 
 <p align="center">
-I love building Java projects and learning new technologies.
+Passionate about building desktop applications, backend systems, and continuously improving my development skills.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Student @ REVA University
-- 🌱 Currently Learning Spring Boot
-- 💻 Java Developer
-- 📫 Email: **nairahsin@gmail.com**
+- 🎓 BCA Student at **REVA University**
+- ☕ Passionate about **Java Development**
+- 🌱 Currently learning **Spring Boot** and Backend Development
+- 💡 Interested in building practical, real-world applications
+- 📫 **Email:** nairahsin@gmail.com
 
 ---
 
@@ -29,30 +30,38 @@ I love building Java projects and learning new technologies.
 - 🌱 Spring Boot
 - 🐍 Python
 - 🛢️ MySQL
-- 🌐 HTML
-- 🎨 CSS
+- 🌐 HTML5
+- 🎨 CSS3
 - ⚡ JavaScript
 - 🔧 Git
 - 🐙 GitHub
 
 ---
 
-## ⭐ Featured Projects
+## 🌟 Featured Projects
 
-- 💰 Expense Tracker
-- 🏫 Leave Management System
-- 🐦 Flappy Bird Game
+### 💰 Expense Tracker
+Desktop application for tracking expenses with interactive pie chart visualization using JFreeChart.
+
+### 🏫 Smart Leave Management System
+Java Swing application with MySQL integration featuring automated leave conflict detection.
+
+### 🐦 Flappy Bird Game
+A desktop recreation of the classic Flappy Bird game built using Java Swing.
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
+- Spring Boot
+- REST APIs
+- Data Structures & Algorithms
+- Full Stack Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahsin18&show_icons=true&theme=tokyonight"/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsin18&theme=tokyonight"/>
+## 🤝 Connect With Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsin18&layout=compact&theme=tokyonight"/>
+📧 **Email:** nairahsin@gmail.com
 
-</p>
+💼 **LinkedIn:** https://www.linkedin.com/in/ahsin-nair-0ab99b327
