@@ -1,150 +1,194 @@
 
-<!-- ================= HEADER ================= -->
+<!-- =============== HERO SECTION =============== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=27&duration=3000&pause=1000&color=20BFA9&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
-
-# Hi, I'm Ahsin Nair
-
-### Java Developer | BCA Student | Backend Development Enthusiast
-
-Building practical applications, exploring backend technologies, and turning ideas into working software.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahsin+Nair.;Java+Developer.;Backend+Development+Enthusiast.;Building.+Learning.+Evolving." alt="Typing SVG" />
 
 <br/>
 
-<a href="mailto:nairahsin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-20BFA9?style=for-the-badge&logo=gmail&logoColor=white" />
+<h1>Turning ideas into working software.</h1>
+
+<p>
+  A developer passionate about Java, backend engineering and building
+  applications that solve real problems.
+</p>
+
+<br/>
+
+<a href="https://github.com/Ahsin18">
+  <img src="https://img.shields.io/badge/GitHub-181B24?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ahsin-nair-0ab99b327">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-181B24?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
-<a href="https://github.com/Ahsin18">
-  <img src="https://img.shields.io/badge/GitHub-Ahsin18-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:nairahsin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-181B24?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
 </a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- =============== INTRODUCTION =============== -->
+
+## `01 / About Me`
+
+```java
+public class Ahsin {
+
+    String name = "Ahsin Nair";
+    String education = "BCA | REVA University";
+    String graduation = "2027";
+
+    String[] interests = {
+        "Java Development",
+        "Backend Engineering",
+        "Problem Solving",
+        "Building Real-World Projects"
+    };
+
+    String currentlyLearning = "Spring Boot";
+
+    String mindset = "Always Learning. Always Building.";
+}
+```
+
+---
+
+<!-- =============== TECH STACK =============== -->
+
+## `02 / Tech Stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,spring,nodejs,express,mysql,mongodb,html,css,git,github,vscode,eclipse&theme=dark" />
+</p>
+
+<div align="center">
+
+| Area | Technologies |
+|:---|:---|
+| **Languages** | Java, Python, C, JavaScript |
+| **Backend** | Spring Boot, Node.js, Express.js |
+| **Databases** | MySQL, MongoDB |
+| **Web** | HTML, CSS |
+| **Tools** | Git, GitHub, VS Code, Eclipse |
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- =============== PROJECTS =============== -->
 
-## About Me
+## `03 / Selected Work`
 
-I'm a BCA student at **REVA University**, passionate about software development, particularly Java and backend engineering.
+A few things I've built along the way.
 
-- 🎓 Pursuing Bachelor of Computer Applications (2027).
-- ☕ Focused on Java programming and object-oriented development.
-- 🌱 Currently exploring Spring Boot and backend development.
-- 💡 Interested in building practical, real-world applications.
-- 🔍 Continuously improving my problem-solving and development skills.
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-### Tools & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
-</p>
-
-### Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 01. Expense Tracker
-A desktop application designed to simplify personal expense management with interactive charts and expense visualization.
 
-**Technologies:** Java · Swing · MySQL · JFreeChart
+A desktop application for tracking personal expenses with interactive data visualization.
 
-### 02. Smart Leave Management System
-A Java-based leave management application with MySQL integration, featuring leave request management and automated leave conflict detection.
+**Stack**
 
-**Technologies:** Java · Swing · MySQL
+`Java` `Swing` `JFreeChart`
 
-### 03. Flappy Bird Game
-A desktop recreation of the classic Flappy Bird game, featuring custom game logic, collision detection and graphical rendering.
+</td>
+<td width="50%" valign="top">
 
-**Technologies:** Java · Swing
+### 02. Smart Leave Management
+
+A leave management system with MySQL integration and automated leave conflict detection.
+
+**Stack**
+
+`Java` `Swing` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. Flappy Bird
+
+A Java Swing recreation of the classic arcade game with custom game logic and collision detection.
+
+**Stack**
+
+`Java` `Swing`
+
+</td>
+<td width="50%" valign="top">
+
+### 04. What's Next?
+
+Exploring backend engineering and developing more practical applications.
+
+**Focus**
+
+`Spring Boot` `REST APIs` `Backend`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= LEARNING ================= -->
+<!-- =============== CURRENT FOCUS =============== -->
 
-## Currently Exploring
+## `04 / Currently Exploring`
 
 - Spring Boot & REST API Development
 - Data Structures and Algorithms
-- Backend Development
-- Database Management
-- Software Design and Development
+- Backend Architecture
+- Database Design
+- Writing clean and maintainable code
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- =============== GITHUB ANALYTICS =============== -->
 
-## GitHub Statistics
+## `05 / GitHub Analytics`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahsin18&show_icons=true&hide_border=true&theme=transparent&title_color=20BFA9&icon_color=20BFA9&text_color=9CA3AF&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahsin18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsin18&layout=compact&hide_border=true&theme=transparent&title_color=20BFA9&text_color=9CA3AF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsin18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Ahsin18&theme=transparent&hide_border=true&ring=20BFA9&fire=20BFA9&currStreakLabel=20BFA9&sideLabels=9CA3AF&dates=9CA3AF" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Ahsin18&background=0D1117&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-<!-- ================= ACTIVITY ================= -->
+<!-- =============== CONTRIBUTIONS =============== -->
 
-## Contribution Activity
+## `06 / Contribution Graph`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsin18&bg_color=00000000&color=20BFA9&line=20BFA9&point=20BFA9&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsin18&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- =============== FOOTER =============== -->
 
 <div align="center">
 
-### Let's Build Something Great.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=100&section=footer" width="100%" />
 
-Always learning. Always building. Always improving.
+**BUILDING • LEARNING • EVOLVING**
 
-<a href="mailto:nairahsin@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/ahsin-nair-0ab99b327">LinkedIn</a> •
-<a href="https://github.com/Ahsin18">GitHub</a>
+<sub>Thanks for stopping by. Let's connect and build something meaningful.</sub>
 
 </div>
