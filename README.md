@@ -1,5 +1,7 @@
 
-<!-- =============== HERO SECTION =============== -->
+<!-- ===================================================== -->
+<!--                     HERO SECTION                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -7,12 +9,11 @@
 
 <br/>
 
-<h1>Turning ideas into working software.</h1>
+# AHSIN NAIR
 
-<p>
-  A developer passionate about Java, backend engineering and building
-  applications that solve real problems.
-</p>
+### Java Developer | BCA Student | Backend Development Enthusiast
+
+Building practical applications, exploring backend engineering, and turning ideas into working software.
 
 <br/>
 
@@ -32,7 +33,9 @@
 
 ---
 
-<!-- =============== INTRODUCTION =============== -->
+<!-- ===================================================== -->
+<!--                     ABOUT SECTION                     -->
+<!-- ===================================================== -->
 
 ## `01 / About Me`
 
@@ -43,44 +46,71 @@ public class Ahsin {
     String education = "BCA | REVA University";
     String graduation = "2027";
 
+    String primaryLanguage = "Java";
+    String currentlyLearning = "Spring Boot";
+
     String[] interests = {
-        "Java Development",
         "Backend Engineering",
         "Problem Solving",
+        "Software Development",
         "Building Real-World Projects"
     };
-
-    String currentlyLearning = "Spring Boot";
 
     String mindset = "Always Learning. Always Building.";
 }
 ```
 
+I'm a Computer Applications student passionate about software development, particularly Java and backend engineering.
+
+- Focused on Java programming and object-oriented development.
+- Exploring Spring Boot and REST API development.
+- Working with relational and NoSQL databases.
+- Interested in building practical applications that solve real problems.
+- Continuously improving my development and problem-solving skills.
+
 ---
 
-<!-- =============== TECH STACK =============== -->
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
 
 ## `02 / Tech Stack`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,spring,nodejs,express,mysql,mongodb,html,css,git,github,vscode,eclipse&theme=dark" />
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
 </p>
 
-<div align="center">
+**Backend & Frameworks**
 
-| Area | Technologies |
-|:---|:---|
-| **Languages** | Java, Python, C, JavaScript |
-| **Backend** | Spring Boot, Node.js, Express.js |
-| **Databases** | MySQL, MongoDB |
-| **Web** | HTML, CSS |
-| **Tools** | Git, GitHub, VS Code, Eclipse |
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+</p>
 
-</div>
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+**Tools & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
+</p>
+
+**Web Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
 
 ---
 
-<!-- =============== PROJECTS =============== -->
+<!-- ===================================================== -->
+<!--                    PROJECTS                           -->
+<!-- ===================================================== -->
 
 ## `03 / Selected Work`
 
@@ -92,9 +122,9 @@ A few things I've built along the way.
 
 ### 01. Expense Tracker
 
-A desktop application for tracking personal expenses with interactive data visualization.
+A desktop application designed to simplify personal expense management with interactive charts and expense visualization.
 
-**Stack**
+**Tech Stack**
 
 `Java` `Swing` `JFreeChart`
 
@@ -105,7 +135,7 @@ A desktop application for tracking personal expenses with interactive data visua
 
 A leave management system with MySQL integration and automated leave conflict detection.
 
-**Stack**
+**Tech Stack**
 
 `Java` `Swing` `MySQL`
 
@@ -118,7 +148,7 @@ A leave management system with MySQL integration and automated leave conflict de
 
 A Java Swing recreation of the classic arcade game with custom game logic and collision detection.
 
-**Stack**
+**Tech Stack**
 
 `Java` `Swing`
 
@@ -129,7 +159,7 @@ A Java Swing recreation of the classic arcade game with custom game logic and co
 
 Exploring backend engineering and developing more practical applications.
 
-**Focus**
+**Current Focus**
 
 `Spring Boot` `REST APIs` `Backend`
 
@@ -139,56 +169,168 @@ Exploring backend engineering and developing more practical applications.
 
 ---
 
-<!-- =============== CURRENT FOCUS =============== -->
+<!-- ===================================================== -->
+<!--                   CURRENT FOCUS                       -->
+<!-- ===================================================== -->
 
 ## `04 / Currently Exploring`
 
-- Spring Boot & REST API Development
-- Data Structures and Algorithms
-- Backend Architecture
-- Database Design
-- Writing clean and maintainable code
+| Focus Area | What I'm Working Towards |
+|:---|:---|
+| Java | Stronger programming fundamentals |
+| Spring Boot | Building REST APIs and backend services |
+| DSA | Improving problem-solving skills |
+| Databases | Better database design and queries |
+| Backend | Understanding application architecture |
 
 ---
 
-<!-- =============== GITHUB ANALYTICS =============== -->
+<!-- ===================================================== -->
+<!--                DEVELOPER SNAPSHOT                      -->
+<!-- ===================================================== -->
 
-## `05 / GitHub Analytics`
+## `05 / Developer Snapshot`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahsin18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>01</h2>
+<strong>Java</strong>
+<br/>
+<sub>Primary Language</sub>
+</td>
+<td align="center" width="25%">
+<h2>02</h2>
+<strong>Backend</strong>
+<br/>
+<sub>Area of Interest</sub>
+</td>
+<td align="center" width="25%">
+<h2>03</h2>
+<strong>Spring Boot</strong>
+<br/>
+<sub>Currently Exploring</sub>
+</td>
+<td align="center" width="25%">
+<h2>04</h2>
+<strong>2027</strong>
+<br/>
+<sub>Graduation</sub>
+</td>
+</tr>
+</table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsin18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                 DEVELOPER JOURNEY                     -->
+<!-- ===================================================== -->
+
+## `06 / The Developer Journey`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<strong>01</strong>
+<br/>
+Java Fundamentals
+</td>
+<td align="center">→</td>
+<td align="center">
+<strong>02</strong>
+<br/>
+Desktop Applications
+</td>
+<td align="center">→</td>
+<td align="center">
+<strong>03</strong>
+<br/>
+REST APIs
+</td>
+</tr>
+<tr>
+<td align="center" colspan="5">
+↓
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<strong>04</strong>
+<br/>
+Spring Boot
+</td>
+<td align="center">→</td>
+<td align="center" colspan="2">
+<strong>05</strong>
+<br/>
+Backend Engineering
+</td>
+</tr>
+</table>
+
+<sub>Learning, experimenting and building one step at a time.</sub>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                 DEVELOPER PHILOSOPHY                  -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+## A LITTLE ABOUT MY APPROACH
+
+> Good software isn't just about writing code.
+>
+> It's about solving problems, making thoughtful decisions,
+> and continuously finding better ways to build.
+
+<br/>
+
+### THINK. BUILD. DEBUG. IMPROVE.
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    CONTACT                            -->
+<!-- ===================================================== -->
+
+## `07 / Let's Connect`
+
+<div align="center">
+
+Interested in software development, technology and building meaningful projects.
+
+<br/>
+
+<a href="mailto:nairahsin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nairahsin%40gmail.com-181B24?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+</a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Ahsin18&background=0D1117&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
+<a href="https://www.linkedin.com/in/ahsin-nair-0ab99b327">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahsin%20Nair-181B24?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
 
-</div>
+<br/><br/>
 
----
+<a href="https://github.com/Ahsin18">
+  <img src="https://img.shields.io/badge/GitHub-Ahsin18-181B24?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<!-- =============== CONTRIBUTIONS =============== -->
+<br/><br/>
 
-## `06 / Contribution Graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsin18&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<!-- =============== FOOTER =============== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=100&section=footer" width="100%" />
-
-**BUILDING • LEARNING • EVOLVING**
-
-<sub>Thanks for stopping by. Let's connect and build something meaningful.</sub>
+**Always Learning. Always Building. Always Improving.**
 
 </div>
